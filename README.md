@@ -4,7 +4,7 @@
 
 > *Finance. Strategy. AI. Execution. One brain.*
 
-A Chartered Accountant who thinks like an operator. I move between the numbers and the narrative — building the model, then the story that gets it funded, then the plan that executes it.
+This is the code side of that brain — the finance-and-strategy work lives on [LinkedIn](https://www.linkedin.com/in/aayush-pundir-ap22/), the full journey lives at [1stopfinance.in](https://1stopfinance.in). Here, it's what I've actually shipped: internal tools, side projects, and things I built because I got curious enough to just start typing.
 
 - 🏦 **Chartered Accountant, All India Rank 44** (Nov 2024) — 2nd highest marks in India in Advanced Financial Management (97/100)
 - 🎓 MBA, Financial Management @ NMIMS Mumbai · B.Com @ Delhi University
@@ -52,18 +52,39 @@ I sit at the centre of finance, strategy, product thinking, GTM, and cross-funct
 
 ---
 
-### 🔧 What I've Automated
+### 🧑‍💻 How I Build
 
-I'm not a professional developer, but I use code to kill the manual, repetitive parts of finance work — reconciliations, reporting, and MIS that used to eat hours every day.
+I'm a finance guy who fell into building software because I got tired of watching people push the same Excel buttons every month. I mostly vibecode — describe the problem in plain language, iterate fast with AI pair-programming, ship something that actually removes the pain — rather than grinding out every line by hand. What I care about is the problem, not the stack: I'll pick up FastAPI, Next.js, React Native, whatever the problem asks for. Depth in finance, range everywhere else — that's the generalist bet.
 
-**💳 OmniCard — AI-led process automation (Founder's Office)**
-Architecting AI-driven automations that remove operational inefficiencies across finance and cross-functional workflows, as part of the founding team building India's AI-powered Business Fintech OS on UPI + RuPay infrastructure.
+### 💻 Featured Projects
 
-**📊 Revenue recognition automation (Edfora)**
-Automated the revenue recognition process for a platform serving 25,000+ students annually — cut processing turnaround by **60%** and fed straight into CEO-level MIS dashboards tracking cash flow and capital requirements.
+**Built for work — OmniCard / Eroute**
 
-**🌐 1stopfinance.in — Personal journey site**
-Designed and shipped my own interactive portfolio/journey site (Three.js scroll experience, chapter-based storytelling) to document the path from CA Foundation to AIR 44 to Founder's Office.
+🧮 **[Reconciliation OS](https://github.com/Aayush-pundir/Reconciliation_OS)**
+An internal platform that replaced 7 offline reconciliation tools (HTML/JS utilities, a VBA macro workbook, a Streamlit script) with one upload → reconcile → review → export flow, run history, and a full audit trail across every settlement network — NFS, RuPay, UPI, FASTag, Payment Gateway, and more.
+`React` `TypeScript` `FastAPI` `PostgreSQL` `Celery/Redis` `Docker`
+
+🤝 **[Advisor Dashboard](https://github.com/Aayush-pundir/Advisor-Dashboard)**
+A partner relationship management platform running OmniCard's Chartered Accountant partner program end-to-end — public lead capture, certification, co-branded landing pages, lead-to-revenue tracking, advisory-fee payouts, and an annual milestone/Elite Club recognition ladder.
+`Next.js 16` `TypeScript` `Prisma` `Tailwind CSS`
+
+🧾 **[B2B Billing Automation](https://github.com/Aayush-pundir/B2B-Billing)**
+An offline-first order-to-cash platform: auto-extracts commercial terms from agreements (DOCX/PDF/scanned images), runs a flexible slab billing engine over monthly usage, applies GST/TDS, issues invoices, and reconciles against bank statements — no external AI API cost, everything runs locally.
+`Python` `FastAPI` `SQLAlchemy` `OCR (pdfplumber/EasyOCR)`
+
+**Personal projects — curiosity and vibecoding**
+
+🩸 **[RaktSetu](https://github.com/Aayush-pundir/Raktsetu)**
+A real-time blood donor matching network for India — matches requesters to nearby verified, eligible donors in seconds via a rules-based matching engine, with a three-tier trust system and donor-retention mechanics ("Blood Circles", milestone streaks) built to fix a real distribution problem, not just a supply one.
+`React` `React Native (Expo)` `Node.js` `MongoDB`
+
+🧘 **[Quit Addiction](https://github.com/Aayush-pundir/quitaddiction)**
+A mobile app to help people track and break addictive habits — streaks, haptics, and gentle nudges instead of guilt-tripping.
+`React Native` `Expo` `Zustand` `Supabase`
+
+🌐 **[1stopfinance.in](https://1stopfinance.in)**
+My own interactive journey site — a scroll-driven, chapter-based story of the path from CA Foundation to AIR 44 to Founder's Office, built with a Three.js particle scene and GSAP scroll animation, just because a static resume felt like underselling the story.
+`Three.js` `GSAP` `Vanilla JS`
 
 ---
 
