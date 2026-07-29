@@ -163,8 +163,8 @@ My own interactive journey site — a scroll-driven, chapter-based story of the 
 
 ### 🗣️ What People Say
 
-> "He single-handedly led the project, overseeing all processes and successfully concluding it... I confidently recommend him for any role that demands reliability, skill, and strong leadership."
-> — **Princy Dwivedi**, ICAI, senior on the engagement
+> "There were only a handful of people who amazed me with their skills and professionalism, and Aayush was one of them. He is enriched with sound knowledge of various areas — extremely hardworking, passionate, and able to manage big projects. His dedication and ethics to work make it possible for him to consistently climb the ladder of success."
+> — **Anita Gupta**, Finance Manager, CA — colleague at Goyal Malhotra & Associates
 
 > "His expertise in auditing, taxation and financial reporting is commendable. A reliable person who will undoubtedly make significant contributions in the finance industry."
 > — **Anubhav Singh**, Senior Data Engineer, MetLife
