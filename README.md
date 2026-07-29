@@ -155,7 +155,7 @@ My own interactive journey site — a scroll-driven, chapter-based story of the 
 <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aayush-pundir&show_icons=true&hide_title=true&count_private=true&hide_border=true&bg_color=0B0806&title_color=E8B84B&icon_color=E8B84B&text_color=F5F1E8" alt="GitHub Stats" />
 <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aayush-pundir&layout=compact&hide_title=true&hide_border=true&bg_color=0B0806&title_color=E8B84B&text_color=F5F1E8" alt="Top Languages" />
 
-<img src="https://streak-stats.demolab.com/?user=Aayush-pundir&hide_border=true&background=0B0806&ring=E8B84B&fire=E8B84B&currStreakLabel=E8B84B" alt="GitHub Streak" />
+<img src="https://streak-stats.vercel.app/?user=Aayush-pundir&hide_border=true&background=0B0806&ring=E8B84B&fire=E8B84B&currStreakLabel=E8B84B" alt="GitHub Streak" />
 
 </div>
 
