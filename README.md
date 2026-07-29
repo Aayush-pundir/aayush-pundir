@@ -4,12 +4,12 @@
 
 > *Finance. Strategy. AI. Execution. One brain.*
 
-This is the code side of that brain — the finance-and-strategy work lives on [LinkedIn](https://www.linkedin.com/in/aayush-pundir-ap22/), the full journey lives at [1stopfinance.in](https://1stopfinance.in). Here, it's what I've actually shipped: internal tools, side projects, and things I built because I got curious enough to just start typing.
+This is the code side of that brain — the finance-and-strategy work lives on [LinkedIn](https://www.linkedin.com/in/aayush-pundir-ap22/), the full journey lives at [1stopfinance](https://github.com/Aayush-pundir/1stopfinance.git). Here, it's what I've actually shipped: internal tools, side projects, and things I built because I got curious enough to just start typing.
 
 - 🏦 **Chartered Accountant, All India Rank 44** (Nov 2024) — 2nd highest marks in India in Advanced Financial Management (97/100)
 - 🎓 MBA, Financial Management @ NMIMS Mumbai · B.Com @ Delhi University
 - 🚀 Currently: **Strategy, Founder's Office @ OmniCard®** — India's first AI-powered, RBI-licensed Business Fintech OS
-- 📩 aayushpundir.ap@gmail.com · 🔗 [1stopfinance.in](https://1stopfinance.in) (my journey, in detail)
+- 📩 aayushpundir.ap@gmail.com · 🔗 [1stopfinance](https://github.com/Aayush-pundir/1stopfinance.git) (my journey, in detail)
 
 ---
 
@@ -82,7 +82,7 @@ A real-time blood donor matching network for India — matches requesters to nea
 A mobile app to help people track and break addictive habits — streaks, haptics, and gentle nudges instead of guilt-tripping.
 `React Native` `Expo` `Zustand` `Supabase`
 
-🌐 **[1stopfinance.in](https://1stopfinance.in)**
+🌐 **[1stopfinance](https://github.com/Aayush-pundir/1stopfinance.git)**
 My own interactive journey site — a scroll-driven, chapter-based story of the path from CA Foundation to AIR 44 to Founder's Office, built with a Three.js particle scene and GSAP scroll animation, just because a static resume felt like underselling the story.
 `Three.js` `GSAP` `Vanilla JS`
 
@@ -100,7 +100,7 @@ My own interactive journey site — a scroll-driven, chapter-based story of the 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-pundir-ap22/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayushpundir.ap@gmail.com)
-[![Website](https://img.shields.io/badge/1stopfinance.in-E8B84B?style=for-the-badge&logo=googlechrome&logoColor=black)](https://1stopfinance.in)
+[![Website](https://img.shields.io/badge/1stopfinance-E8B84B?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Aayush-pundir/1stopfinance.git)
 
 ---
 
