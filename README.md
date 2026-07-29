@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Aayush Pundir
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E8B84B&center=true&vCenter=true&width=650&lines=CA+(AIR+44)+%C2%B7+Strategy%2C+Founder's+Office+%40+OmniCard%C2%AE;Finance+%C3%97+Strategy+%C3%97+AI+%C3%97+Execution;I+mostly+vibecode+and+love+solving+problems;Depth+in+finance.+Range+everywhere+else.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=E8B84B&center=true&vCenter=true&width=800&lines=CA+(AIR+44)+%C2%B7+Strategy%2C+Founder's+Office+%40+OmniCard%C2%AE;Finance+%C3%97+Strategy+%C3%97+AI+%C3%97+Execution;I+mostly+vibecode+and+love+solving+problems;Depth+in+finance.+Range+everywhere+else.)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Aayush-pundir&color=E8B84B&style=flat-square&label=Profile+Views)](https://github.com/Aayush-pundir)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-pundir-ap22/)
