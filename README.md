@@ -13,7 +13,7 @@
 
 > *Finance. Strategy. AI. Execution. One brain.*
 
-This is the code side of that brain — the finance-and-strategy work lives on [LinkedIn](https://www.linkedin.com/in/aayush-pundir-ap22/), the full journey lives at [1stopfinance](https://aayush-pundir.github.io/1stopfinance/). Here, it's what I've actually shipped: internal tools, side projects, and things I built because I got curious enough to just start typing.
+This is the code side of that brain — the finance-and-strategy work lives on [LinkedIn](https://www.linkedin.com/in/aayush-pundir-ap22/), the full journey lives at [1stopfinance](https://aayush-pundir.github.io/1stopfinance/). Here, it's what I've actually shipped: side projects and things I built because I got curious enough to just start typing.
 
 - 🏦 **Chartered Accountant, All India Rank 44** (Nov 2024) — 2nd highest marks in India in Advanced Financial Management (97/100)
 - 🎓 MBA, Financial Management @ NMIMS Mumbai · B.Com @ Delhi University
@@ -75,41 +75,6 @@ I sit at the centre of finance, strategy, product thinking, GTM, and cross-funct
 I'm a finance guy who fell into building software because I got tired of watching people push the same Excel buttons every month. I mostly vibecode — describe the problem in plain language, iterate fast with AI pair-programming, ship something that actually removes the pain — rather than grinding out every line by hand. What I care about is the problem, not the stack: I'll pick up FastAPI, Next.js, React Native, whatever the problem asks for. Depth in finance, range everywhere else — that's the generalist bet.
 
 ### 💻 Featured Projects
-
-**Built for work — OmniCard / Eroute**
-
-<details>
-<summary>🧮 <b>Reconciliation OS</b> — 7 offline tools replaced by 1 platform (click to expand)</summary>
-<br>
-
-An internal platform that replaced 7 offline reconciliation tools (HTML/JS utilities, a VBA macro workbook, a Streamlit script) with one upload → reconcile → review → export flow, run history, and a full audit trail across every settlement network — NFS, RuPay, UPI, FASTag, Payment Gateway, and more.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Celery](https://img.shields.io/badge/Celery%2FRedis-37814A?style=flat-square&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-🔗 [github.com/Aayush-pundir/Reconciliation_OS](https://github.com/Aayush-pundir/Reconciliation_OS)
-</details>
-
-<details>
-<summary>🤝 <b>Advisor Dashboard</b> — OmniCard's CA partner network platform (click to expand)</summary>
-<br>
-
-A partner relationship management platform running OmniCard's Chartered Accountant partner program end-to-end — public lead capture, certification, co-branded landing pages, lead-to-revenue tracking, advisory-fee payouts, and an annual milestone/Elite Club recognition ladder.
-
-![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-🔗 [github.com/Aayush-pundir/Advisor-Dashboard](https://github.com/Aayush-pundir/Advisor-Dashboard)
-</details>
-
-<details>
-<summary>🧾 <b>B2B Billing Automation</b> — offline-first order-to-cash platform (click to expand)</summary>
-<br>
-
-An offline-first order-to-cash platform: auto-extracts commercial terms from agreements (DOCX/PDF/scanned images), runs a flexible slab billing engine over monthly usage, applies GST/TDS, issues invoices, and reconciles against bank statements — no external AI API cost, everything runs locally.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white) ![OCR](https://img.shields.io/badge/OCR-pdfplumber%2FEasyOCR-333?style=flat-square)
-
-🔗 [github.com/Aayush-pundir/B2B-Billing](https://github.com/Aayush-pundir/B2B-Billing)
-</details>
 
 **Personal projects — curiosity and vibecoding**
 
